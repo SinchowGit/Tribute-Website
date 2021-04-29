@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title> Tribute page for Abraham Lincoln. </title>
+  <link rel="stylesheet" href="css/Style.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Kanit&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Kanit&family=Podkova&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Kanit&family=Parisienne&family=Podkova&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:wght@300&family=Parisienne&family=Podkova&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class = "upper">
+  <h1> Abraham Lincoln </h1>
+  <h2> 12 February, 1809 - 15 April, 1865</h2>
+</div>
+  <img src="circle-cropped.png" alt="Image of abraham lincoln" width="200" height="199">
+  <div class = "border">
+  <p><h3>Abraham Lincoln's Exemplary Works - Do what you can, with what you have, where you are.</h3>
+  <li>Abraham Lincoln made the decision to fight to prevent the nation from splitting apart.</li>
+  <li>Abraham Lincoln was an unfaltering commander in chief during the Civil War which preserved the United States as one nation.</li>
+
+  <li>Abraham Lincoln's foreign policy was successful in preventing other countries from intervening in America's Civil War.
+  </li>
+
+  <li>Abraham Lincoln issued the Emancipation Proclamation which began the process of freedom for America's slaves. The document also allowed black soldiers to fight for the Union.
+  </li>
+
+  <li>Abraham Lincoln was a strong supporter of the Thirteenth Amendment that formally ended slavery in the United States.
+  </li>
+
+  <li>Legislation Abraham Lincoln signed into law included the Homestead Act, the Morrill Act, the National Banking Act, and a bill that chartered the first transcontinental railroad.
+  </li>
+
+  <li>Abraham Lincoln set an example of strong character, leadership, and honesty which succeeding presidents tried to emulate. Barack Obama stated during his campaign that he would look to Lincoln as a model.
+  </li>
+
+  <li>Abraham Lincoln gave a series of great speeches before and during his presidency including the House Divided Speech, the Cooper Union Address, the First Inaugural Address, the Gettysburg Address, and the Second Inaugural Address.
+  </li>
+
+  <li>Abraham Lincoln wrote a series of famous letters including the letters to Grace Bedell, Horace Greeley, Fanny McCullough, and Lydia Bixby.
+  </li>
+
+  <li>Abraham Lincoln's quotes are among the most famous quotes in the world.</li></p>
+</div>
+</body>
+<br><cite>Read more about Abraham Lincoln on <a href="https://en.wikipedia.org/wiki/Abraham_Lincoln"
+  target="_blank">wikipedia</a></cite><br>
+<cite>Written and coded by <a href=""target="_blank">Shruti Raj</a></cite>
+</html>
